@@ -4,7 +4,6 @@ a micro IDE like program for JAVA newbies :cowboy_hat_face:
 ## Requirements
 - Windows OS (Sorry linux lovers)
 - JDK
-- JVM
 - Notepad 
 - Patience :innocent:
 
